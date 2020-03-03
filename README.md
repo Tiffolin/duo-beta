@@ -4,7 +4,7 @@ Duo Patisserie &amp; Cafe Official Website
 The official website of Duo Patisserie & Cafe to replace the current one created by wix.com
 
 ## Live Site
-https://tiffolin.github.io/Design3/.
+ - Pending
 
 ## Technologies and Libraries
 
@@ -20,7 +20,7 @@ Splash page will contain carousel of images
 
 ---
 
-![](appScreenshots/1.PNG)      
+![](webscreenshot/1.PNG)      
 
 ---
 
@@ -28,7 +28,7 @@ About Page
 
 ---
 
-![](appScreenshots/2.PNG)  
+![](webscreenshot/2.PNG)  
 
 ---
 
@@ -36,7 +36,7 @@ Menu Item sample
 
 ---
 
-![](appScreenshots/3.PNG)    
+![](webscreenshot/3.PNG)    
 
 ---
 
@@ -44,7 +44,7 @@ Upon hover effects
 
 ---
   
-![](appScreenshots/4.PNG) 
+![](webscreenshot/4.PNG) 
 
 ---
 
