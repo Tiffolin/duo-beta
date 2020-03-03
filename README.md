@@ -14,7 +14,6 @@ The official website of Duo Patisserie & Cafe to replace the current one created
 * CSS
 * Google Map
 
-
 ### Demo
 Splash page will contain carousel of images
 
@@ -46,10 +45,10 @@ Upon hover effects
 
 In Progress:
 
--Mobile Responsiveness
--Google Map navigation
--Link to existing Social Media accounts
--Connect to existing Domain
+* Mobile Responsiveness
+* Google Map navigation
+* Link to existing Social Media accounts
+* Connect to existing Domain
 
 ---
 ## Authors
