@@ -18,7 +18,6 @@ The official website of Duo Patisserie & Cafe to replace the current one created
 ### Demo
 Splash page will contain carousel of images
 
----
 
 ![](webscreenshot/1.PNG)      
 
@@ -26,7 +25,6 @@ Splash page will contain carousel of images
 
 About Page
 
----
 
 ![](webscreenshot/2.PNG)  
 
@@ -34,7 +32,6 @@ About Page
 
 Menu Item sample
 
----
 
 ![](webscreenshot/3.PNG)    
 
@@ -42,9 +39,8 @@ Menu Item sample
 
 Upon hover effects
 
----
   
-![](webscreenshot/4.PNG) 
+![](webscreenshot/4.png) 
 
 ---
 
